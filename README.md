@@ -4,13 +4,13 @@
 <h3 align="center">I ❤ Competitive Programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-rabbi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaidmeheraj&label=Profile%20views&color=0e75b6&style=flat" alt="shaidmeheraj" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Mehedi-Hasan-Rabbi?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/shaidmeheraj?tab=repositories)
   
-- 📄 Know about my experiences at [Here](https://drive.google.com/file/d/1mVAaM9GfI5lezK5b3ebsdjO_LxHXNqNF/view?usp=sharing)
+- 📄 Know about my experiences at [Here]()
 
 - 💬 Ask me about **Problem Solving**
 
