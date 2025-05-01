@@ -37,3 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaidmeheraj&show_icons=true&locale=en" alt="shaidmeheraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaidmeheraj&" alt="shaidmeheraj" /></p>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shaidmeheraj/shaidmeheraj/output/snake.svg" alt="Snake animation" />
+
+###
