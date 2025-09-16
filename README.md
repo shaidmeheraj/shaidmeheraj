@@ -9,15 +9,11 @@
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 - ## 🛠️ Skills & Expertise  
 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)  
-![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 🤖 Machine Learning Algorithms  
-- 📌 Linear Regression  
-- 📌 Logistic Regression  
-- 📌 Stochastic Gradient Descent (SGD)  
+📌 Linear Regression • 📌 Logistic Regression • 📌 Stochastic Gradient Descent (SGD)
+
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/shaidmeheraj?tab=repositories)
   
