@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://mehedihasan16.netlify.app/)
 <h1 align="center">Assalamualaikum Wa Rahmatullah</h1>
 <h1 align="center">Hi 👋, I'm Shaid Ibna Sobhan</h1>
-<h3 align="center">I ❤ Competitive Programming.</h3>
+<h3 align="center">I ❤️ **learning new things every day** and becoming a **better version of myself**🌟</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaidmeheraj&label=Profile%20views&color=0e75b6&style=flat" alt="shaidmeheraj" /> </p>
