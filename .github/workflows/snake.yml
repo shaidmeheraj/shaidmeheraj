@@ -1,9 +1,9 @@
-name: generate snake animation
+name: Generate Snake Animation
 
 on:
-  schedule: # প্রতি 12 ঘন্টায় রান হবে
+  schedule: # প্রতি 12 ঘন্টায় auto run
     - cron: "0 */12 * * *"
-  workflow_dispatch: # manual run option
+  workflow_dispatch: # manual run করার option
 
 jobs:
   generate:
@@ -13,7 +13,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ShaidSobhan   # এখানে তোমার GitHub username দাও
+          github_user_name: shaidmeheraj   # তোমার সঠিক GitHub username
           outputs: dist/snake.svg
 
       - name: Push to output branch
