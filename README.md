@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaidmeheraj&label=Profile%20views&color=0e75b6&style=flat" alt="shaidmeheraj" /> </p>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&lines=Data+Science+📊;Machine+Learning+🤖;AI+Fundamentals+⚡)](https://git.io/typing-svg)
+
 - ## 🛠️ Skills & Expertise  
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)  
