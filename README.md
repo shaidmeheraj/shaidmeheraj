@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shaidmeheraj9@gmail.com**
 
-- ⚡ Fun fact ** I love Volunteer Work **
+- ⚡ Fun fact : I love Volunteer Work 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
