@@ -17,16 +17,15 @@
 ### 🤖 Machine Learning Algorithms  
 📌 Linear Regression • 📌 Logistic Regression • 📌 Stochastic Gradient Descent (SGD)
 
+- <h3 align="center">Check out my 🌐 <a href="https://lnkd.in/gAvXDRQt">Portfolio</a> to see my projects and work!</h3>
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/shaidmeheraj?tab=repositories)
-  
-- 📄 Know about my experiences at [Here]()
 
-- 💬 Ask me about **Problem Solving**
+- 💬 Ask me about anything related to **CSE, coding, algorithms, or tech problems** – I’m happy to help!
 
 - 📫 How to reach me **shaidmeheraj9@gmail.com**
 
-- ⚡ Fun fact **I love Logic Developing.**
+- ⚡ Fun fact **I love Volunteer Work **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
