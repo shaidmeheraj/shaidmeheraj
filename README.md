@@ -52,7 +52,7 @@
 <br clear="both">
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/ShaidSobhan/shaidmeheraj/blob/output/snake.svg)
+![Snake animation](https://github.com/shaidmeheraj/shaidmeheraj/blob/output/snake.svg)
 
 
 
