@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/shaidmeheraj/shaidmeheraj/blob/output/snake.svg)
 
 
