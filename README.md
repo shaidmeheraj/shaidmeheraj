@@ -51,6 +51,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shaidmeheraj/shaidmeheraj/output/snake.svg" alt="Snake animation" />
+## 🐍 Contribution Snake
+![snake gif](https://github.com/ShaidSobhan/ShaidSobhan/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
