@@ -51,7 +51,9 @@
 
 <br clear="both">
 
-![snake svg](https://github.com/ShaidSobhan/ShaidSobhan/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/ShaidSobhan/ShaidSobhan/blob/output/snake.svg)
+
 
 
 ###
